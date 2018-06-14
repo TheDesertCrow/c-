@@ -54,7 +54,9 @@ int main()
 	regEmbarazadas.incisoE();
 	cout << "\n********INCISO F: \n";
 	regEmbarazadas.incisoF();
-
+	
+	cout<<"\n\n"<<"Proceso ha finalizado"<<endl;
+	
 	system("pause");
 	return 0;
 }
